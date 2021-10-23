@@ -2,7 +2,6 @@
 //  ViewController.swift
 //  I am Rich
 //
-//  Created by Dave M on 10/23/2021.
 //
 
 import UIKit
